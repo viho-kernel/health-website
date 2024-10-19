@@ -1,0 +1,8 @@
+
+### Step 3: Save and Commit the README
+1. **Save the file** in `vim` by pressing `Esc`, then typing `:wq` and hitting `Enter`.
+
+2. **Stage the README file**:
+   ```bash
+   git add README.md
+
